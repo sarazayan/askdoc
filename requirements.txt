@@ -1,5 +1,6 @@
+python 3.10.6
 streamlit
-langchain
+langchain==0.0.125
 openai
 chromadb
 tiktoken
