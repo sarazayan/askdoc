@@ -1,5 +1,5 @@
 streamlit
-langchain==0.0.125
+langchain== 0.0.229
 openai
 chromadb
 tiktoken
